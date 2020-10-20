@@ -1,0 +1,20 @@
+{
+    "userInfo":[
+        {
+            "id":"1",
+            "username":"ali",
+            "date":"1.1.2016",
+            "post":"this is a post",
+            "like":"2",
+            "liked":false
+        },
+        {
+            "id":"2",
+            "username":"veli",
+            "date":"2.3.2015",
+            "post":"Everyting nonsense",
+            "like":"0",
+            "liked":false
+        }
+    ]
+}
